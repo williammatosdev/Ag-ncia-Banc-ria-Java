@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+D:\Agencia_Bancaria\.metadata\.plugins\org.eclipse.jdt.core
+3690594286.index
+2495808948.index
+1865797976.index
